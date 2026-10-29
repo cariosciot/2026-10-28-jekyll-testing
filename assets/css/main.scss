@@ -1,4 +1,6 @@
 ---
+# Two lines of triple dashes at the top are REQUIRED for Jekyll to process this file
 ---
 
-@import "base";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
