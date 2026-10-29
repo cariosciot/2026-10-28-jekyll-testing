@@ -1,7 +1,7 @@
 # url: "https://cariosc.io" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "cariosciot.github.io"
-baseurl: "/2026-10-28-jekyll-testing/"
+baseurl: "/2026-10-28-jekyll-testing"
 
 title: "Timothy Carioscio" # the name of your site, e.g. ACME Corp.
 
@@ -12,7 +12,7 @@ subheads:
   - "15+ Years of ERP Consulting Experience"
 
 # theme: minimal-mistakes-jekyll
-remote_theme: pages-themes/dinky@v0.2.0
+# remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
