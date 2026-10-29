@@ -4,7 +4,8 @@ source "https://rubygems.org"
 
 # gem "rails"
 # Use a modern version of Jekyll compatible with GitHub Pages
-gem "jekyll", "~> 4.3"
+# gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 3.1"
 gem "minimal-mistakes-jekyll"
 
 # Add standard plugins used by GitHub Pages safely
