@@ -29,4 +29,4 @@ Serving as a director, contributing to organizational oversight, strategic plann
 
 ## Blog Posts
 
- - [Past Blogs]({% link blogs.md %})
+ - [Past Blogs]({% link blogs.md | relative_url %})
